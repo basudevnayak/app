@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "962788470561",
+    "project_id": "homeautomation-206fb",
+    "storage_bucket": "homeautomation-206fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962788470561:android:49303371bf029eaab0d860",
+        "android_client_info": {
+          "package_name": "com.techlambda.agnipanels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962788470561-n0od4jqhmusbmm8efpss4d5g3domb1p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techlambda.agnipanels",
+            "certificate_hash": "d359880b65d95bef0acef04aa2a3e813ea8dacd0"
+          }
+        },
+        {
+          "client_id": "962788470561-chf28l4oar3cr0giptmcbdb0g5g4pa0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfj7Wj4Sggwe5kMCiNcn1baoPZZ4J2qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962788470561-chf28l4oar3cr0giptmcbdb0g5g4pa0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
